@@ -5,5 +5,6 @@ schemiatic and arduino file for a credit card sized tetris board.
 - add way to program atmega328p or add DIP Socket
 - Finish the ~~Gerber~~ BOM File (Add all components to list, [this](https://octopart.com/bom-tool) should help.)
 - have some printed and assembled by [Seeed](https://www.seeedstudio.com/fusion_pcb.html)
+- figure out the switch you want to use on the boards
 ### Other assembly options ###
-- Order the PCB from [Advanced Circuits](http://www.4pcb.com/), have them assemble it too.
+- Order the PCB from [Seeed](https://www.seeedstudio.com/fusion_pcb.html), assemble it yourself.
